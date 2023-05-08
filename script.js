@@ -24,6 +24,7 @@ console.log("what do you want from me?")
 // mesh.rotation.reorder("YXZ")
 // mesh.rotation.y = 0.4 * Math.PI
 
+//live
 //axis helper
 const axesHelper = new THREE.AxesHelper(1)
 scene.add(axesHelper)
